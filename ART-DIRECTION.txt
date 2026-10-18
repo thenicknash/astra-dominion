@@ -1,0 +1,11 @@
+ASTRA DOMINION — ARTWORK PROVENANCE
+
+Generated using the built-in image_gen tool. No CLI/API fallback was used.
+Final project asset: dist/assets/aurelia-key-art.png
+The original output is preserved in the Codex generated_images directory.
+The command-deck banner and admiral portrait use CSS framing of this image.
+Ship tokens and the emblem are original editable SVG artwork in the source.
+
+Exact generation prompt:
+
+Use case: stylized-concept. Asset type: wide landscape key art for a browser space strategy game, 1536x1024. Primary request: anime-inspired super science fiction military fleet in a futuristic neo Art Deco universe. Scene: a magnificent ivory-and-gold orbital citadel with stepped towers and sunburst arches floats above a luminous pale turquoise planet. Elegant white battleships with long geometric gold prows, aquamarine engines and winglike symmetry travel diagonally into the distant right side. Foreground on the left: one adult female fleet admiral, bust portrait, long silver white hair, focused amber eyes, dignified dark teal futuristic officer uniform with ivory armored shoulder panels, gold geometric piping and high collar. Fine anime linework, exquisitely painted cinematic sci fi environment, restrained rich colors, prestige strategy game illustration. Composition: wide panoramic depth with admiral occupying left quarter, readable spaceships middle/right, blue-black space and amber sunlight. No text, no logos, no UI, no watermarks. Avoid cyberpunk, neon pink, urban streets, distressed grunge, sexualized outfits.
